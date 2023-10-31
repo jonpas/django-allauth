@@ -153,6 +153,7 @@ INSTALLED_APPS = (
     "allauth.socialaccount.providers.snapchat",
     "allauth.socialaccount.providers.soundcloud",
     "allauth.socialaccount.providers.stackexchange",
+    "allauth.socialaccount.providers.swcombine",
     "allauth.socialaccount.providers.telegram",
     "allauth.socialaccount.providers.twitch",
     "allauth.socialaccount.providers.twitter",

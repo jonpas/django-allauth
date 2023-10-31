@@ -163,6 +163,7 @@ INSTALLED_APPS = (
     "allauth.socialaccount.providers.stocktwits",
     "allauth.socialaccount.providers.strava",
     "allauth.socialaccount.providers.stripe",
+    "allauth.socialaccount.providers.swcombine",
     "allauth.socialaccount.providers.telegram",
     "allauth.socialaccount.providers.trainingpeaks",
     "allauth.socialaccount.providers.trello",

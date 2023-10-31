@@ -119,6 +119,7 @@ Provider Specifics
    stocktwits
    strava
    stripe
+   swcombine
    telegram
    trainingpeaks
    trello
